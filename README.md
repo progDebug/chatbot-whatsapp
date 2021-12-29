@@ -1,1 +1,1 @@
-Envio de mensagem pré configuradas no whatsapp. Projeto pessoal. 
+Envio de mensagem pré configuradas no whatsapp. Projeto pessoal. Totalmente escrito em Javascript no nodejs com as bibliotecas: express, ejs, open, shell, pkg(caso queira transformar em executavel o arquivo principal), e puppetter (automação do whatsapp web). Ele foi escrito para rodar no navegador. Poderia ter usado o Electron. 
