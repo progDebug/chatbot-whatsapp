@@ -1,0 +1,20 @@
+{
+  "name": "chatbotjs",
+  "version": "1.0.0",
+  "description": "ChatBot para envio de mensagem no whatsapp",
+  "main": "app.js",
+  "bin": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "open": "^8.4.0",
+    "pkg": "^5.5.1",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Júlio César",
+  "license": "ISC"
+}
